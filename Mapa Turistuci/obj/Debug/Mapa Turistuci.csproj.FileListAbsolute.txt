@@ -1,0 +1,78 @@
+C:\Users\USUARIO\git\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa Turistuci.csprojAssemblyReference.cache
+C:\Users\USUARIO\git\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Form1.resources
+C:\Users\USUARIO\git\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Properties.Resources.resources
+C:\Users\USUARIO\git\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.GenerateResource.cache
+C:\Users\USUARIO\git\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\git\Mapa Turistuci\Mapa Turistuci\bin\Debug\Mapa Turistuci.exe.config
+C:\Users\USUARIO\git\Mapa Turistuci\Mapa Turistuci\bin\Debug\Mapa Turistuci.exe
+C:\Users\USUARIO\git\Mapa Turistuci\Mapa Turistuci\bin\Debug\Mapa Turistuci.pdb
+C:\Users\USUARIO\git\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa Turistuci.exe
+C:\Users\USUARIO\git\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa Turistuci.pdb
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\bin\Debug\Mapa Turistuci.exe.config
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\bin\Debug\Mapa Turistuci.exe
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\bin\Debug\Mapa Turistuci.pdb
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa Turistuci.csprojAssemblyReference.cache
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Form1.resources
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Properties.Resources.resources
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.GenerateResource.cache
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.CoreCompileInputs.cache
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa Turistuci.exe
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa Turistuci.pdb
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Form2Map.resources
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\bin\Debug\modelo.dll
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\bin\Debug\modelo.pdb
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.CopyComplete
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\bin\Debug\Mapa Turistuci.exe.config
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\bin\Debug\Mapa Turistuci.exe
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\bin\Debug\Mapa Turistuci.pdb
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\bin\Debug\modelo.dll
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\bin\Debug\modelo.pdb
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.csprojAssemblyReference.cache
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Form1.resources
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Form2Map.resources
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Properties.Resources.resources
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.GenerateResource.cache
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.CopyComplete
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.exe
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.pdb
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\bin\Debug\GMap.NET.Core.dll
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\USUARIO\git\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Form3Estadistica.resources
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\bin\Debug\Mapa Turistuci.exe.config
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\bin\Debug\Mapa Turistuci.exe
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\bin\Debug\Mapa Turistuci.pdb
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\bin\Debug\GMap.NET.Core.dll
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\bin\Debug\modelo.dll
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\bin\Debug\modelo.pdb
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.csprojAssemblyReference.cache
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Form1.resources
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Form2Map.resources
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Form3Estadistica.resources
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Properties.Resources.resources
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.GenerateResource.cache
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.CoreCompileInputs.cache
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.CopyComplete
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.exe
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.pdb
+C:\Users\USUARIO\git\Git\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.csprojAssemblyReference.cache
+C:\Users\USUARIO\git\Git\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.exe
+C:\Users\USUARIO\git\Git\Mapa-Turistico\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.pdb
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.csprojAssemblyReference.cache
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Form1.resources
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Form2Map.resources
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Form3Estadistica.resources
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa_Turistuci.Properties.Resources.resources
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.GenerateResource.cache
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.CoreCompileInputs.cache
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.exe
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.pdb
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\bin\Debug\Mapa Turistuci.exe.config
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\bin\Debug\Mapa Turistuci.exe
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\bin\Debug\Mapa Turistuci.pdb
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\bin\Debug\GMap.NET.Core.dll
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\bin\Debug\modelo.dll
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\bin\Debug\modelo.pdb
+C:\Users\c\Downloads\Mapa-Turistico\Mapa Turistuci\obj\Debug\Mapa Turistuci.csproj.CopyComplete

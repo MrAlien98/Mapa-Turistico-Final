@@ -1,0 +1,45 @@
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\modelo\obj\Debug\netstandard2.0\modelo.csprojAssemblyReference.cache
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\modelo\obj\Debug\netstandard2.0\modelo.csproj.CoreCompileInputs.cache
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\modelo\obj\Debug\netstandard2.0\modelo.AssemblyInfoInputs.cache
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\modelo\obj\Debug\netstandard2.0\modelo.AssemblyInfo.cs
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\modelo\bin\Debug\netstandard2.0\modelo.deps.json
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\modelo\bin\Debug\netstandard2.0\modelo.dll
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\modelo\bin\Debug\netstandard2.0\modelo.pdb
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\modelo\obj\Debug\netstandard2.0\modelo.dll
+C:\Users\c\Downloads\Mapa Turistuci\Mapa Turistuci\modelo\obj\Debug\netstandard2.0\modelo.pdb
+C:\Users\USUARIO\git\Mapa-Turistico\modelo\bin\Debug\netstandard2.0\modelo.deps.json
+C:\Users\USUARIO\git\Mapa-Turistico\modelo\bin\Debug\netstandard2.0\modelo.dll
+C:\Users\USUARIO\git\Mapa-Turistico\modelo\bin\Debug\netstandard2.0\modelo.pdb
+C:\Users\USUARIO\git\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.csprojAssemblyReference.cache
+C:\Users\USUARIO\git\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\git\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\git\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.AssemblyInfo.cs
+C:\Users\USUARIO\git\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.dll
+C:\Users\USUARIO\git\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.pdb
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\modelo\bin\Debug\netstandard2.0\modelo.deps.json
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\modelo\bin\Debug\netstandard2.0\modelo.dll
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\modelo\bin\Debug\netstandard2.0\modelo.pdb
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.csprojAssemblyReference.cache
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.csproj.CoreCompileInputs.cache
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.AssemblyInfoInputs.cache
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.AssemblyInfo.cs
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.dll
+C:\Users\c\Desktop\Mapa-Turistico\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.pdb
+C:\Users\USUARIO\git\Git\Mapa-Turistico\Mapa-Turistico\modelo\bin\Debug\netstandard2.0\modelo.deps.json
+C:\Users\USUARIO\git\Git\Mapa-Turistico\Mapa-Turistico\modelo\bin\Debug\netstandard2.0\modelo.dll
+C:\Users\USUARIO\git\Git\Mapa-Turistico\Mapa-Turistico\modelo\bin\Debug\netstandard2.0\modelo.pdb
+C:\Users\USUARIO\git\Git\Mapa-Turistico\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.csprojAssemblyReference.cache
+C:\Users\USUARIO\git\Git\Mapa-Turistico\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\git\Git\Mapa-Turistico\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\git\Git\Mapa-Turistico\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.AssemblyInfo.cs
+C:\Users\USUARIO\git\Git\Mapa-Turistico\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.dll
+C:\Users\USUARIO\git\Git\Mapa-Turistico\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.pdb
+C:\Users\c\Downloads\Mapa-Turistico\modelo\bin\Debug\netstandard2.0\modelo.deps.json
+C:\Users\c\Downloads\Mapa-Turistico\modelo\bin\Debug\netstandard2.0\modelo.dll
+C:\Users\c\Downloads\Mapa-Turistico\modelo\bin\Debug\netstandard2.0\modelo.pdb
+C:\Users\c\Downloads\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.csprojAssemblyReference.cache
+C:\Users\c\Downloads\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.csproj.CoreCompileInputs.cache
+C:\Users\c\Downloads\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.AssemblyInfoInputs.cache
+C:\Users\c\Downloads\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.AssemblyInfo.cs
+C:\Users\c\Downloads\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.dll
+C:\Users\c\Downloads\Mapa-Turistico\modelo\obj\Debug\netstandard2.0\modelo.pdb

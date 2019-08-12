@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapa Turistuci", "Mapa Turistuci\Mapa Turistuci.csproj", "{DC2CC63C-B0BE-4678-A587-9CF0C58E9790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modelo", "modelo\modelo.csproj", "{B63776F7-0657-430F-8BCD-39125708BF72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC2CC63C-B0BE-4678-A587-9CF0C58E9790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2CC63C-B0BE-4678-A587-9CF0C58E9790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2CC63C-B0BE-4678-A587-9CF0C58E9790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2CC63C-B0BE-4678-A587-9CF0C58E9790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B63776F7-0657-430F-8BCD-39125708BF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63776F7-0657-430F-8BCD-39125708BF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63776F7-0657-430F-8BCD-39125708BF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63776F7-0657-430F-8BCD-39125708BF72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {165F4E79-8FF0-4FF2-9E11-18C8E9A535F8}
+	EndGlobalSection
+EndGlobal
