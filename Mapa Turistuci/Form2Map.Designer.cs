@@ -92,6 +92,7 @@
             // 
             // tbLatitud
             // 
+            this.tbLatitud.Enabled = false;
             this.tbLatitud.Location = new System.Drawing.Point(500, 147);
             this.tbLatitud.Name = "tbLatitud";
             this.tbLatitud.Size = new System.Drawing.Size(100, 20);
@@ -99,6 +100,7 @@
             // 
             // txLongitud
             // 
+            this.txLongitud.Enabled = false;
             this.txLongitud.Location = new System.Drawing.Point(500, 198);
             this.txLongitud.Name = "txLongitud";
             this.txLongitud.Size = new System.Drawing.Size(100, 20);

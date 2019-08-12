@@ -74,6 +74,7 @@
             // 
             // txtMayor
             // 
+            this.txtMayor.Enabled = false;
             this.txtMayor.Location = new System.Drawing.Point(110, 453);
             this.txtMayor.Name = "txtMayor";
             this.txtMayor.ReadOnly = true;
@@ -82,6 +83,7 @@
             // 
             // txtMenor
             // 
+            this.txtMenor.Enabled = false;
             this.txtMenor.Location = new System.Drawing.Point(501, 453);
             this.txtMenor.Name = "txtMenor";
             this.txtMenor.ReadOnly = true;
